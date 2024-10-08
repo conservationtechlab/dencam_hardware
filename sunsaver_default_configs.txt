@@ -1,0 +1,57 @@
+Charge_1
+----------------------------------------------
+Absorption_Voltage 		14.00	V
+Float_Voltage 			13.70	V
+Time_Before_Float		180	min
+Float_Low_Battery_Threshold	12.50	V
+Time_Before_Float_low_battery	240	min
+Float_Cancel_Threshold		12.30	V
+Exit_Float_Timer		60	min
+Equalize_Voltage		disabled
+Days_Between_Equalize
+Equalization_Duration
+Equalize_Timeout
+
+Charge_2
+----------------------------------------------
+Absorption_Voltage 		14.30	V
+Float_Voltage 			13.70	V
+Time_Before_Float		180	min
+Float_Low_Battery_Threshold	12.50	V
+Time_Before_Float_low_battery	240	min
+Float_Cancel_Threshold		12.30	V
+Exit_Float_Timer		60	min
+Equalize_Voltage		14.50	V
+Days_Between_Equalize		28	days
+Equalization_Duration		180	min
+Equalize_Timeout		240	min
+
+Charge_Shared
+----------------------------------------------
+Temperature_Compensation	-0.031	V/degC
+Battery_High_Voltage_Disconnect	15.30	V
+Battery_High_Voltage_Reconnect	13.80	V
+Max_Regulation_Limit		15.00	V
+Max_Temperature_Compensation	80	degC
+Min_Temperature_Compensation	-30	degC
+
+Load
+-----------------------------------------------
+Low_Voltage_Disconnect		11.00	V
+Low_Voltage_Reconnect		12.10	V
+Load_High_Voltage_Disconnect	disabled	
+Load_High_Voltage_Reconnect	
+Load_Current_Compensation	-0.015	ohm
+LVD_Warning_Timeout		4	min
+
+Lighting
+-----------------------------------------------
+Lighting_Enabled		disabled
+
+Misc
+-----------------------------------------------
+LED_Green_to_Yellow_Threshold	12.10	V
+LED_Yellow_to_Red_Threshold	11.70	V
+LED_Red_to_Yellow_Threshold	12.60	V
+LED_Yellow_to_Green_Threshold	13.10	V
+
