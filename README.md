@@ -2,7 +2,7 @@
 
 This repo is at this stage mostly created to give us an Issue Tracker
 and such for this DenCam hardware work so that we can use that in
-concert with the DenCam Hardware 2025 Season project to coordinate on
+concert with the DenCam 2025 Season GitHub project to coordinate on
 our work towards both the 2025 deployment and the mid-November Churchill
 testing milestones.
 
