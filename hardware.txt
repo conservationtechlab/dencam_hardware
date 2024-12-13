@@ -1,0 +1,77 @@
+The DenCam system uses hardware from a number of different vendors.
+
+Detailed product names are given below since it's hard to tell when direct URLs might go offline.
+
+The shorthand shopping list is:
+
+- Raspberry Pi 4
+- Pi camera cable (different per model of Pi)
+- [Raspberry Pi High Quality Camera with C-mount](https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/)
+- Lens Adapter — [Vello LA-C-NF Nikon F Lens to C-Mount](https://www.vellogear.com/product/12571/Vello-LA_C_NF-Nikon-F-Lens-to-C_Mount-Camera-Lens-Adapter)
+- Nikkor F-Mount lens
+
+
+
+# Raspberry Pi
+
+- [Raspberry Pi 4 Model B](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+
+
+
+
+# Screen
+
+PiTFT Plus Assembled 320x240 2.8" TFT + Resistive Touchscreen
+
+- [Adafruit](https://www.adafruit.com/product/2298) (USA)
+- [PiShop](https://www.pishop.ca/product/pitft-plus-assembled-320x240-2-8-tft-resistive-touchscreen/) (Canada)
+
+Support materials:
+
+*	[Adafruit PiTFT Downloads](https://learn.adafruit.com/adafruit-pitft-28-inch-resistive-touchscreen-display-raspberry-pi/downloads)
+*	Adafruit GitHub for [Adafruit-PiTFT-Plus-2.8-PCB](https://github.com/adafruit/Adafruit-PiTFT-Plus-2.8-PCB)
+
+
+
+# Cameras
+
+[Raspberry Pi High Quality Camera with C-mount](https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/)
+
+Specs for current model in use:
+> 12.3 megapixel Sony IMX477 sensor, 7.9mm diagonal image size, and back-illuminated sensor architecture, with adjustable back focus.
+> C/CS mount
+> Raspberry Pi High Quality Camera will remain in production until at least January 2030
+
+Note that the cable supplied with the camera should work with the Pi 4, but a different cable is needed for Pi Zero.
+
+
+
+# Lens Adapter
+
+> The High Quality Camera CS Mount variant is designed to accept CS-mount lenses and, with the supplied adapter, C-mount lenses. 
+> [...]
+> ...[see step-by-step instructions](https://www.raspberrypi.com/products/raspberry-pi-high-quality-camera/) for fitting these CS-mount and C-mount lenses.
+
+So, you will need an adapter from your lens to C-mount body type.
+
+- [Vello LA-C-NF Nikon F Lens to C-Mount](https://www.vellogear.com/product/12571/Vello-LA_C_NF-Nikon-F-Lens-to-C_Mount-Camera-Lens-Adapter)
+- [Urth - Nikon F Lens Mount to C-Mount Camera](https://ca.urth.co/products/nikon-f-lens-mount-to-c-mount-camera)
+
+
+
+# Lens
+
+Some lenses used in the past include:
+
+- 	[Nikkor 24-120 Nikon F-Mount Ai-S](https://www.keh.com/shop/nikon-24-120mm-f-3-5-5-6-d-if-autofocus-lens-72.html)
+-	[Nikkor 17-35 Nikon F-Mount D Type](https://www.keh.com/shop/nikon-nikkor-17-35mm-f-2-8d-ed-if-af-s-wide-angle-zoom-lens.html)
+-	[Nikkor 25-50 Nikon F-Mount D Type](https://www.keh.com/shop/nikon-25-50mm-f-4-ais-2-touch-manual-focus-lens-72.html)
+
+Notes:
+
+- the mount type is different for some, and the letter prefixes get stacked together confusingly, as in "NIKKOR F-Mount D-Type"
+- only the 25-50 is "manual focus only"
+
+Background: [NIKKOR F-Mount Lens Types](https://www.nikonimgsupport.com/eu/BV_article?articleNo=000044851&configured=1&lang=en_GB#Mechanical)
+
+
